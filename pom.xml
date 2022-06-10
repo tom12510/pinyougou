@@ -31,7 +31,7 @@
         <mapper.version>3.4.0</mapper.version>
         <mysql.version>5.1.38</mysql.version>
         <druid.version>1.0.9</druid.version>
-        <dubbo.version>2.6.1</dubbo.version>
+        <dubbo.version>2.6.12</dubbo.version>
         <zookeeper.version>3.4.11</zookeeper.version>
         <curator.framework.version>2.12.0</curator.framework.version>
         <shiro.version>1.4.0</shiro.version>
